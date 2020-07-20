@@ -8,6 +8,10 @@
 # testing
 /coverage
 
+# Ignore artifacts:
+build
+coverage
+
 # production
 /build
 
